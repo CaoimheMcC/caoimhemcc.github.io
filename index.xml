@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caoimhe McCarthy</title>
-    <link>caoimhemccarthy.com/</link>
+    <link>https://caoimhemcc.github.io/</link>
     <description>Recent content on Caoimhe McCarthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="caoimhemccarthy.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caoimhemcc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>  Procedural Ivy Generator HDA</title>
-      <link>caoimhemccarthy.com/portfolio/work1/</link>
+      <link>https://caoimhemcc.github.io/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>caoimhemccarthy.com/portfolio/work1/</guid>
+      <guid>https://caoimhemcc.github.io/portfolio/work1/</guid>
       <description>&lt;p&gt;This project demonstrates the generation of a Houdini Digital Asset for ivy growth.  This procedural tool can generate a variety of different scenes based on user defined parameter values.  The ivy is generated using a sort of particle based method first introduced in 1985 by Reeves and Blau [1].&lt;/p&gt;</description>
     </item>
     
     <item>
       <title> Escher inspired Penrose staircase with Bouncing Ball</title>
-      <link>caoimhemccarthy.com/portfolio/work3/</link>
+      <link>https://caoimhemcc.github.io/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>caoimhemccarthy.com/portfolio/work3/</guid>
+      <guid>https://caoimhemcc.github.io/portfolio/work3/</guid>
       <description>&lt;p&gt;This project was completed during the MSc Computer Animation and Visual Effects. The aim of the project was to model a Penrose (impossible) staircase inspired by M.C Escher&amp;rsquo;s Assending and Decending artwork and have a simple bouncing ball interacting with it.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title> Growth Simlutaions</title>
-      <link>caoimhemccarthy.com/portfolio/work5/</link>
+      <link>https://caoimhemcc.github.io/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>caoimhemccarthy.com/portfolio/work5/</guid>
+      <guid>https://caoimhemcc.github.io/portfolio/work5/</guid>
       <description>&lt;p&gt;The video below shows simulations of several different growth algorithms implemented in Houdini. Each are done using the VEX programming language.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Artist Friendly Garden Generator HDA</title>
-      <link>caoimhemccarthy.com/portfolio/work2/</link>
+      <link>https://caoimhemcc.github.io/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>caoimhemccarthy.com/portfolio/work2/</guid>
+      <guid>https://caoimhemcc.github.io/portfolio/work2/</guid>
       <description>&lt;p&gt;This garden generator Houdini Digital Asset was created during the course of my Masters degree at Bournemouth University. It was my first introduction to Houdini, and was created in line with the brief.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creature Rig</title>
-      <link>caoimhemccarthy.com/portfolio/work4/</link>
+      <link>https://caoimhemcc.github.io/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>caoimhemccarthy.com/portfolio/work4/</guid>
+      <guid>https://caoimhemcc.github.io/portfolio/work4/</guid>
       <description>&lt;p&gt;This rig was created for a group project during MSc Computer Animation and Visual Effects. Having little to no experience rigging prior to this creature, I began to teach myself the fundamentals and necessary requirements for a game-ready rig.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>RenderMan Lemon</title>
-      <link>caoimhemccarthy.com/portfolio/work6/</link>
+      <link>https://caoimhemcc.github.io/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>caoimhemccarthy.com/portfolio/work6/</guid>
+      <guid>https://caoimhemcc.github.io/portfolio/work6/</guid>
       <description>&lt;p&gt;This lemon was created as part of a Simulation and Rendering assignment during the course of my Master&amp;rsquo;s degree. The project was completed using RenderMan and it&amp;rsquo;s API. It was modeled directly in RIB and shaded using OSL (Open Shading Language).&lt;/p&gt;</description>
     </item>
     
